@@ -1,0 +1,10 @@
+.blue {
+  background-color: #E8F0FE;
+}
+
+@media screen and (max-width:568px)
+{
+  .wid {
+    width: 85% !important;
+  }
+}

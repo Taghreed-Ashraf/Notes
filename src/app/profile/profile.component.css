@@ -1,0 +1,17 @@
+#profile {
+  background-color: #666666;
+  min-height: 100vh;
+}
+
+.note {
+  background-color: #CCFFCC;
+  min-height: 200px;
+  color: black;
+}
+
+i, ul li a{
+  cursor: pointer;
+  font-size: 18px;
+}
+
+
